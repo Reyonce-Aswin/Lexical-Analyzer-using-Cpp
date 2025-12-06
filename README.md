@@ -130,6 +130,12 @@ Extend the operator recognition logic in **lexer_operators.cpp**.
 2. Add handling logic in the appropriate `.cpp`\
 3. Update `tokenTypeToString()` in **lexer.hpp**
 
-# Author
-  Reyonce Aswin T
-  Emertxe Information Technologies, Bangalore - Trainee
+---
+
+## Author
+
+**Reyonce Aswin T**  
+*Student ID: 25021_181*  
+Embedded Systems Student, Emertxe Information Technologies, Bangalore
+
+---
