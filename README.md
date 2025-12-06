@@ -108,7 +108,7 @@ The lexer provides descriptive error messages:
 
 ### Compile using g++
 
-    g++ -std=c++17     lexer_core.cpp lexer_operators.cpp lexer_constants.cpp lexer_helpers.cpp     main.cpp -o lexer
+    g++ *.cpp -o lexer
 
 ### Run
 
