@@ -1,4 +1,4 @@
-# C++ Lexer
+# Lexical Analyzer using C++
 
 ## Overview
 
